@@ -1,0 +1,48 @@
+$border: #FDDD9B;
+$padding: #C2CF8A;
+$content: #8BB5C0;
+
+.box {
+	display: inline-block;
+	width: 200px;
+	
+	margin: 10px 10px 20px 200px;
+	border-top: 10px;
+	border-left: 5vw;
+	border-bottom: 30px;
+	border-right: 100px;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	padding-right: 8px;
+
+	border-style: solid;
+	border-color: $border;
+	background-color: $padding;
+}
+
+.content {
+	height: 1000px;
+	width: 100%;
+	background-color: $content;
+}
+
+.border-info {
+	width: 185px;
+	background-color: $border;
+}
+
+.padding-info {
+	width: 185px;
+	background-color: $padding;
+}
+
+.content-info {
+	width: 185px;
+	background-color: $content;
+}
+
+.info {
+	position: fixed;
+	top: 0;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "element-coordinates",
+  "version": "1.0.0",
+  "description": "Report absolute page positioning and sizing of an element's content box (inner), padding box (background) and border box (outer).",
+  "main": "element-coordinates.js",
+  "repository": "https://github.com/jsneden/element-coordinates",
+  "author": "Jeff Sneden",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.40",
+    "@babel/plugin-proposal-decorators": "^7.0.0-beta.40",
+    "@babel/preset-env": "^7.0.0-beta.40",
+    "babel-loader": "8.0.0-beta.0",
+    "webpack": "^3.11.0"
+  }
+}
