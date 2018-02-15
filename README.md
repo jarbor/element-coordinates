@@ -3,7 +3,7 @@ Element Coordinates is a minimal package for determining any element's basic pos
 
 ## Installation
 ```
-yarn install element-coordinates
+yarn add element-coordinates
 ```
 
 ### ES6
