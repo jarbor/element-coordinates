@@ -35,7 +35,7 @@ The resulting object will have three properties:
 Each of the box properties exposes the same properties as [Element.getBoundingClientRect()](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect) but the values are relative to the document, instead of the scrolled viewport. Namely: `top`, `bottom`, `left`, `right`, `height` and `width`.
 
 ## Example
-See [http://htmlpreview.github.io/?http://github.com/jsneden/element-coordinates/blob/master/examples/index.html](/examples/index.html) for a full example, but the below is provided to show the syntax all together:
+See [/examples/index.html](http://htmlpreview.github.io/?http://github.com/jsneden/element-coordinates/blob/master/examples/index.html) for a full example, but the below is provided to show the syntax all together:
 ```js
 var coordinates = ElementCoordinates('#my-element');
 var borderBox = coordinates.borderBox;
