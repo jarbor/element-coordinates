@@ -1,7 +1,7 @@
 {
   "name": "element-coordinates",
   "version": "1.0.0",
-  "description": "Report absolute page positioning and sizing of an element's content box (inner), padding box (background) and border box (outer).",
+  "description": "Determine absolute page positioning and sizing of an element's content box (inner), padding box (background) and border box (outer).",
   "main": "element-coordinates.js",
   "repository": "https://github.com/jsneden/element-coordinates",
   "author": "Jeff Sneden",
