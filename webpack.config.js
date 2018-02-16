@@ -10,6 +10,7 @@ module.exports = {
 		filename: '[name].js',
 		path: path.resolve(__dirname),
 		library: 'ElementCoordinates',
+		libraryTarget: 'umd',
 		libraryExport: 'default'
 	},
 	module: {
